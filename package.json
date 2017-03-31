@@ -1,0 +1,14 @@
+{
+  "name": "bobby-syntax",
+  "theme": "syntax",
+  "description": "Bobby is a very clean boy.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/sebastianks/bobby-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
